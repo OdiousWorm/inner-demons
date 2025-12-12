@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bnd4>
+  <filename>m25_00_00_00_599010.mapbnd.dcx</filename>
+  <compression>DCX_KRAK</compression>
+  <version>07D7R6</version>
+  <format>IDs, Names1, Names2, Compression</format>
+  <bigendian>False</bigendian>
+  <bitbigendian>False</bitbigendian>
+  <unicode>True</unicode>
+  <extended>0x04</extended>
+  <unk04>False</unk04>
+  <unk05>False</unk05>
+  <root>N:\NTC\data\Target\INTERROOT_win64\map\m25_00_00_00\m25_00_00_00_599010</root>
+  <files>
+    <file>
+      <flags>Flag1</flags>
+      <id>200</id>
+      <path>m25_00_00_00_599010.flver</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>1100</id>
+      <path>m25_00_00_00_599010_S.flver</path>
+    </file>
+  </files>
+</bnd4>
