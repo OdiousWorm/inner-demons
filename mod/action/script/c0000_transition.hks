@@ -3413,7 +3413,11 @@ function _ActivateBehavior(current_hkb_state, next_behavior)
                 end
                 FireEvent("W_SprintAttack")
             elseif current_hkb_state == HKB_STATE_HARD_DEFLECT_DMG or current_hkb_state == HKB_STATE_STAND_DEFLECT_HARD_MINIMUM or current_hkb_state == HKB_STATE_STAND_DEFLECT_HARD_SMALL or current_hkb_state == HKB_STATE_STAND_DEFLECT_HARD_MIDDLE or current_hkb_state == HKB_STATE_LAND_AIR_DEFLECT_HARD_SMALL then
-                FireEvent("W_HardDeflectAtk")
+                if env(GetBehaviorRefID, SP_EF_REF_TAE_MERMAID_DRAGON_REFLECT) == TRUE then
+                    FireEvent("W_GroundMermaidDragonWaveReflect")
+                else
+                    FireEvent("W_HardDeflectAtk")
+                end
             elseif current_hkb_state == HKB_STATE_EASY_DEFLECTED then
                 FireEvent("W_EasyDeflectedAtk")
             elseif env(GetEquipWeaponSpecialCategoryNumber, HAND_RIGHT) == SP_ATK_TYPE_NONE and env(GetBehaviorRefID, SP_EF_REF_TAE_ENABLE_DEFLECT_GUARD_ATTACK) == TRUE then
