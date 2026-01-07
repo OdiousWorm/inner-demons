@@ -6,12 +6,5 @@ It should go without saying, but to play this mod, please download the file-inje
 Simply copy and paste the included "mod" folder into your Sekiro directory.
 
 If you have any feedback, please message me on discord @father_gaslight
-Alternatively, feel free to join the following discord communities:
-Mod Paradise: https://discord.gg/BFQWdUZnNK
-Skill Issue: https://discord.gg/pkb5v42NEN
 
-v0.0.1-playtest:
-released 12-11-2025
-First official playtest. 
-Changelog:
-your mom
+v1.0.0 released 1-7-2026
