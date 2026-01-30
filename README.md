@@ -34,6 +34,8 @@ New stuff:
     - Needed in order to summon The Phantom Priestess
 - New Sculptor's Idol: "Wedding Cave Threshold"
     - Placed at the wooden gate threshold to The Phantom Priestess' arena, no annoying runback anymore
+- New Sculptor's Idol: "Cursed Farm"
+    - Placed at the lowest level of the multi-tier farm located just behind the big ahh tree
 - Moved Sculptor's Idol: "Wedding Cave"
     - Now located within the Wedding Cave itself
 - New NPC: "Creep"
