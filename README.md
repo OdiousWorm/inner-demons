@@ -8,7 +8,7 @@ Simply copy and paste the included "mod" folder into your Sekiro directory.
 If you have any feedback, please message me on discord @father_gaslight
 
 CHANGELOGS
-v1.1.8 released 1-20-2026
+v1.1.9 released 1-29-2026
 
 New stuff:
 
