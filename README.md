@@ -7,10 +7,16 @@ Simply copy and paste the included "mod" folder into your Sekiro directory.
 
 If you have any feedback, please message me on discord @father_gaslight
 
-CHANGELOGS
-v1.1.9 released 1-29-2026
+## CHANGELOGS
+### v1.1.10 released 2-2-2026
 
-New stuff:
+**Hotfix for v1.1.9**
+#### Bugfixes:
+- Fixed catastrophic progression bug making it impossible to summon the Phantom Priestess boss in Mibu Village
+
+### v1.1.9 released 1-29-2026
+
+#### New stuff:
 
 - Lone Shadow Masamori the Pureblood
     - Located at the crux of the farmland in Mibu Village
@@ -42,7 +48,7 @@ New stuff:
     - Appears at key moments in the mod to deliver cryptic hints on what to expect / how to beat the ensuing challenge
     - Is very creepy and off-putting about the whole thing
 
-Changed stuff:
+#### Changed stuff:
 
 - Mibu Village progression has been reworked, as mentioned briefly above
     - Both minibosses, Masamori and O'rin, are now mandatory to progress
@@ -51,14 +57,14 @@ Changed stuff:
     - To be able to call Kuro, you need only kill the major threats now, rather than EVERYTHING
 - Some button prompts occuring during custom progression moments have been changed to make it more clear what is needed to progress
 
-Bug fixes:
+#### Bug fixes:
 
 - DAWG / Gyoubu cheese has been fully patched, both methods are now impossible
 - Fixed a bug where Shigekichi of the Red Guard's AI was broken and he did not attack
 - Fixed a bug where progression could become softlocked in the tutorial if you did not quit and reload
 - Fixed a bug where the Sakura Dragon did not take posture damage in the main story progression, thus making the fight take 10 years to complete
 
-Guides:
+#### Guides:
 
 To get to Lone Shadow Masamori the Pureblood:
 - From the "Mibu Village" idol, make your way to the farmland behind the great tree surrounded by several ground grabby guys, he can be found at the shrine in the back
@@ -66,11 +72,11 @@ To get to Lone Shadow Masamori the Pureblood:
 Thank you for your support. As always, feel free to sub to me at https://patreon.com/FatherGaslight
 
 
-v1.1.5 released 1-20-2026
+### v1.1.5 released 1-20-2026
 
 This version adds two new minibosses to the game. It also adds two new items, as well as a new Sculptor's Idol that serves as a convenient checkpoint for one of the aforementioned minibosses.
 
-New stuff:
+#### New stuff:
 
 - Ministry Elite - Greg of the Twin Fangs
     - Double kodachi ministry soldier that terrorizes the Ashina spearman on the bridge to the castle moat has been turned into a miniboss
@@ -97,7 +103,7 @@ New stuff:
     - Placed right before the small arena where you confront Akiyama of the Twin Fangs, but after all the enemy gank squads to get there
     - Only accessible during final invasion phase of the game
 
-Bug fixes:
+#### Bug fixes:
 
 - The Phantom Priestess
     - Fixed an AI loop bug when she blocks your attacks
@@ -106,12 +112,12 @@ Bug fixes:
 - Great Shinobi Owl of The Ninja Army
     - Fixed an AI loop bug when the boss deflects your second attack after being mikiri'd
 
-Miscellaneous Changes:
+#### Miscellaneous Changes:
 
 - Title screen has been updated and now features the Bell Demon icon in the "O" in "Demons", thank you INDOMIE SUPREME
 - Increased the FOV in both GSOOTNA and Foster Father fights to try and alleviate Miyazaki camera frustration
 
-GUIDES
+#### GUIDES
 
 To get to Seven Ashina Spears - Father Gaslight's Cousin:
 - Reach the "Ashina Castle Gate Fortress" idol in the pre-invasion phase of the game. He can be found in the middle of the court surrounded by a group of enemies.
